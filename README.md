@@ -13,3 +13,6 @@
 目前发现中望cad linux版默认的开发工具是vscode(官方也是这么介绍的，我没找如何切换visual lisp方法)。
 
 并且VScode下不能用"utf-8"中文,我试了，在zwcad中显示乱码。windows端好像没有这个问题。
+
+
+增加了中望CADLinux版的试用感受。
