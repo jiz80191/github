@@ -14,10 +14,10 @@
 
 并且VScode下不能用"utf-8"中文,我试了，在zwcad中显示乱码。windows端好像没有这个问题。
 
-
 增加了中望CADLinux版的试用感受。
 
-2024.1.17：前两天电脑出现问题，Autodesk Inventor Professional 2020软件不能启动，重新安装又不成功，因此重做系统，东西都没有了。重新做了VSCOde连接github，现在已经成功。
+# 2024.1.17：
 
-提示"SSL certificate problem: unable to get local issuer certificate"问题时，下面的命令解决了问题
- git config --global http.sslverify false
+* 前两天电脑出现问题，Autodesk Inventor Professional 2020软件不能启动，重新安装又不成功，因此重做系统，东西都没有了。重新做了VSCOde连接github，现在已经成功。
+* 提示"SSL certificate problem: unable to get local issuer certificate"问题时，下面的命令解决了问题
+   git config --global http.sslverify false
