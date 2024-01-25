@@ -20,4 +20,10 @@
 
 * 前两天电脑出现问题，Autodesk Inventor Professional 2020软件不能启动，重新安装又不成功，因此重做系统，东西都没有了。重新做了VSCOde连接github，现在已经成功。
 * 提示"SSL certificate problem: unable to get local issuer certificate"问题时，下面的命令解决了问题
-   git config --global http.sslverify false
+  git config --global http.sslverify false
+
+# 2024.1.25
+
+一波三折的，发现cad2020与cad2024不能安装在一台电脑上，目前我的是这样。2024好使，2020就有注册问题，估计还是和盗版有关系。
+
+今天将win10重置了，目前需要配置的也都成功了，在配置vscod与github还出现一点小插曲。
